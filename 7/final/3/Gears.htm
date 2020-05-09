@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="icon" href="http://54.194.57.151/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="Gears_files/normalize.css">
+	<link rel="stylesheet" href="Gears_files/contest.css">
+	<link rel="stylesheet" href="Gears_files/countdown.css">
+	<link rel="stylesheet" href="Gears_files/css.css">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<script type="text/javascript" async="" src="Gears_files/ga.js"></script><script type="text/javascript" src="Gears_files/widgets.js"></script>
+	<script type="text/javascript" src="Gears_files/jquery-2.js"></script>
+	<script type="text/javascript" src="Gears_files/jquery.js"></script>
+	<script type="text/javascript" src="Gears_files/lodash.js"></script>
+	<script type="text/javascript" src="Gears_files/countdown.js"></script>
+
+	<title>Tuenti Challenge 7</title>
+</head>
+
+<body>
+	<header>
+		<div class="grid">
+			<h1 class="logo h-left"><a href="http://54.194.57.151/">Tuenti Challenge 7</a></h1>
+			<nav class="h-right">
+				<ul>
+					<li class="none"><a href="http://54.194.57.151/">Home</a></li>
+					<li class="none"><a href="http://54.194.57.151/Info/about">Info</a></li>
+					<li class="active"><a href="http://54.194.57.151/Challenges">Challenges</a></li>
+					<li class="none"><a href="http://54.194.57.151/Info/past">Past editions</a></li>
+										<li class="none"><a href="http://54.194.57.151/Stats">Ranking</a></li>
+														</ul>
+			</nav>
+		</div>
+	</header>
+<div class="content">
+<div class="grid">
+<div class="problem">
+
+<div class="problem-section">
+	<h2><strong>Challenge 3</strong> - Gears</h2>
+	<nav class="h-right" style="padding-top: 0;">
+					<a href="http://54.194.57.151/Challenges?id=2"><span>« Prev</span></a>
+				</nav>
+	
+	<style>
+    sup {
+        vertical-align: super;
+        font-size: smaller;
+    }
+</style>
+
+<p>Your village received a holy message from God: it is time to prepare 
+to go to war! Luckily for your allies, you are a great trebuchet 
+engineer and you are currently building the most complex and accurate 
+trebuchet the world has ever seen.</p>
+
+<p>The main and most unique component of the trebuchet is a NxM cm. rectangular grid. This grid is full of two kinds of pins:
+</p><ul>
+	<li>Red pins, separated 2 cm. from each other and parallel to both axes. The first red pin is situated at the point (0,0)</li>
+	<li>Blue pins, separated 2 cm. from each other and parallel to both axes. The first blue pin is situated at the point (0.5 , 0.5)</li>
+</ul>
+
+<p>We will call the pins r<sub>i,j</sub> and b<sub>i,j</sub>, where <i>i</i> and <i>j</i> indicate the row and column of the pin. Here you can see an example:</p>
+
+<p>
+	<img style="display: block; margin: 40px auto" src="Gears_files/gears.png" alt="gears">
+</p>
+
+<p>These pins, as you can see in the image, have a clear purpose: holding gears. In particular, there are two kinds of gears:</p>
+<ul>
+	<li>Red gears, can only be attached to red pins and have a radius of <span style="white-space: nowrap">√<span style="text-decoration:overline;">&nbsp;2&nbsp;</span></span> - 1 cm.</li>
+	<li>Blue gears, can only be attached to blue pins and have a radius of 1 cm.</li>
+</ul><p></p>
+
+<p>The grid comes with some gears already set in stone, but in addition to them you have an infinite supply of blue gears.</p>
+
+<p>The power and accuracy of the trebuchet correlates directly to the 
+amount of blue gears in this grid so you want to maximize the number of 
+blue gears without jamming them. In other words, all the gears in the 
+grid should be able to spin. As an example, the grid in the image is 
+jammed: a few gears are trying to spin in more than one direction at the
+ same time!</p>
+
+<h3>Input</h3>
+<p>The first line will contain an integer <b>C</b>, the number of cases for our problem.<br>
+Each case starts with a line with three integers <b>N</b>, <b>M</b> and <b>G</b> the size of the grid and the number of initial gears in the grid.<br>
+<b>G</b> lines follow, each with a character <b>c</b> and two integers <b>i</b> and <b>j</b>, indicating that the pin <b>c<sub>i,j</sub></b> has a gear attached to it.</p>
+
+<h3>Output</h3>
+<p>For each case, a line starting with "Case #x: " followed by the 
+maximum amount of blue gears that the grid can have. If it's not 
+possible to have a functional trebuchet, write IMPOSSIBLE instead. Every
+ line is followed by a new line character.</p>
+
+<h3>Examples</h3>
+
+<table style="width:100%"><tbody><tr>
+<td><pre>Case 1:
+
+2 2 0
+
+
+
+
+
+
+
+
+
+</pre></td><td><pre>Case 2:
+
+2 2 1
+b 0 0
+
+
+
+
+
+
+
+
+</pre></td>
+<td><pre>Case 3:
+
+2 2 1
+r 1 1
+
+
+
+
+
+
+
+
+</pre></td>
+<td><pre>Case 4:
+
+2 2 3
+r 1 1
+b 0 0
+b 0 1
+
+
+
+
+
+
+</pre></td>
+<td><pre>Case 5:
+
+3 3 7
+r 1 1
+r 1 3
+r 2 0
+r 2 1
+r 2 2
+r 3 1
+r 3 3
+
+
+</pre></td>
+<td><pre>Case 6:
+
+3 3 9
+r 1 1
+r 1 3
+r 2 0
+r 2 1
+r 2 2
+r 3 1
+r 3 3
+b 2 0
+b 1 2
+</pre></td></tr></tbody></table>
+
+<p>In the Case 1 you can put a blue gear in every blue pin without problems.<br>
+The case 2 is the same as the first one.<br>
+In the Case 3 you can only put two blue gears, both in opposite corners.<br>
+In the Case 4 the grid is already jammed from the start.<br>
+In the Case 5 the answer is 5. The grid has the same red pins that the sample image.<br>
+In the Case 6 the answer is 3. You can only add an extra blue gear.<br>
+</p>
+
+<h3>Limits for the test phase</h3>
+
+<ul>
+<li>There will not be any blue gear in the grid initially (all the initial gears, if any, will be red)</li>
+<li>1 ≤ <b>N</b>, <b>M</b> ≤ 100</li>
+<li>1 ≤ <b>G</b> ≤ 5000</li>
+</ul>
+
+<h3>Limits for the submit phase</h3>
+
+<ul>
+<li>1 ≤ <b>N</b>, <b>M</b>, <b>G</b> ≤ 50000</li>
+</ul>
+
+<h3>Sample Input</h3>
+
+<pre>6
+2 2 0
+2 2 1
+b 0 0
+2 2 1
+r 1 1
+2 2 3
+r 1 1
+b 0 0
+b 0 1
+3 3 7
+r 1 1
+r 1 3
+r 2 0
+r 2 1
+r 2 2
+r 3 1
+r 3 3
+3 3 9
+r 1 1
+r 1 3
+r 2 0
+r 2 1
+r 2 2
+r 3 1
+r 3 3
+b 2 0
+b 1 2
+</pre>
+
+<h3>Sample Output</h3>
+
+<pre>Case #1: 4
+Case #2: 4
+Case #3: 2
+Case #4: IMPOSSIBLE
+Case #5: 5
+Case #6: 3
+</pre>
+
+
+</div>
+
+<div class="problem-section">
+	<h2>Test your code</h2>
+	<p>You can test your program against both the input provided in
+	the test phase and the input provided in the submit phase. A nice
+	output will tell you if your program got the right solution or
+	not. You can try as many times as you want to. Be careful with
+	extra whitespaces, the output should be exactly as described.</p>
+
+	<h3>Test your program against the input provided in the test phase</h3>
+	<div class="group">
+		<div id="form-test-error" class="error hide"></div>
+		<div id="form-test-output" class="hide"><div class="submit-feedback"></div></div>
+		<form id="form-test" name="form-test" action="/Solver/test" method="post" enctype="multipart/form-data">
+			<input name="token" value="CHALLENGE_3" type="hidden">
+			<p><a href="http://54.194.57.151/Solver/testInput?token=CHALLENGE_3" class="icon-download">Download test input</a></p>
+			<p>Program output:</p>
+			<p><input name="output" id="output" type="file"></p>
+			<p><button>Submit test output</button></p>
+		</form>
+	</div>
+
+	<h3>Test your program against the input provided in the submit phase</h3>
+	<div class="group">
+		<a href="http://54.194.57.151/Solver/testInput?token=CHALLENGE_SUBMIT_3" class="icon-download">Download input</a>
+		<div id="form-submit-error" class="error hide"></div>
+		<div id="form-submit-output" class="hide"><div class="submit-feedback"></div></div>
+		<form id="form-submit" name="form-submit" action="/Solver/test" method="post" enctype="multipart/form-data">
+			<input name="token" value="CHALLENGE_SUBMIT_3" type="hidden">
+			<p>Program output:</p>
+			<p><input name="output" id="output" type="file"></p>
+			<p><button>Submit output</button></p>
+		</form>
+	</div>
+	<script>
+	$(function () {
+		var formatOutput = function (text) {
+			return text.trim().split('\n').map(function (line) {
+				var klass = '';
+				if (line.match(/^Line\s+\d+\s+\[WRONG\]/)) {
+					klass = ' class="feedback-line-error"';
+				} else if (line.match(/^Line\s+\d+\s+\[OK!\]/)) {
+					klass = ' class="feedback-line-ok"';
+				}
+				return '<div' + klass + '>' + $('<div />').text(line).html() + '</div>';
+			}).concat('\n');
+		};
+		['test', 'submit'].forEach(function(type) {
+			$('#form-' + type).on('submit', function(e) {
+				e.preventDefault();
+				var formData = new FormData($('#form-' + type)[0]);
+				var error = function(content) {
+					var $error = $('#form-' + type + '-error');
+					$error.html(content);
+					$error.removeClass('hide');
+				};
+				$.ajax("/Solver/test", {
+					type: 'post',
+					data: formData,
+					processData: false,
+					contentType: false,
+					dataType: 'json'
+				}).done(function(data) {
+					$('#form-' + type + '-error').addClass('hide');
+					if (data.error) {
+						if (!data.content && !data.output) {
+							location.reload();
+						}
+						if (data.content) {
+							error(data.content);
+						}
+						if (data.output) {
+							$('#form-' + type + '-output .submit-feedback').html(formatOutput(data.output));
+							$output = $('#form-' + type + '-output');
+							$output.removeClass('hide');
+							$output.removeClass('success');
+							$output.addClass('error');
+						} else {
+							$('#form-' + type + '-output').addClass('hide');
+						}
+					} else {
+						if (data.output) {
+							$('#form-' + type + '-output .submit-feedback').html(formatOutput(data.output));
+							$output = $('#form-' + type + '-output');
+							$output.removeClass('hide');
+							$output.removeClass('error');
+							$output.addClass('success');
+						} else {
+							$('#form-' + type + '-output').addClass('hide');
+						}
+					}
+				}).fail(function() {
+					error("Error uploading test output. Please try again");
+				});
+				return false;
+			});
+		});
+	});
+	</script>
+	<p>During the submit phase, in some problems, we might give your program harder inputs. As with the test token,
+	a nice output will tell you if your program got the right solution or not. You can try as
+	many times as you need.</p>
+
+	<p>In the actual contest you first need to solve the test phase before 
+submitting the code, you must provide
+	the source code used to solve the challenge and you can only submit 
+once (once your solution is submitted you won't be able to amend it to 
+fix issues
+	or make it faster). </p>
+
+	<p>If you have any doubts, please check the <a href="http://54.194.57.151/Info/about">info section</a>.</p>
+	<nav class="h-right" style="padding-top: 0;">
+					<a href="http://54.194.57.151/Challenges?id=2"><span>« Prev</span></a>
+				</nav>
+</div>
+
+</div>
+</div>
+</div>
+	<footer>
+		<div class="grid">
+			<p class="h-left">
+				Tweet about this! <a href="http://twitter.com/intent/tweet?text=%23TuentiChallenge7" target="_blank">#TuentiChallenge7</a>
+			</p>
+			<ul class="h-right scl-menu">
+				<li>
+					<a href="https://twitter.com/Tuentieng" class="twitter-follow-button" data-show-count="false" data-lang="es" data-show-screen-name="false" data-dnt="true" target="_blank">Follow @TuentiEng</a>
+				</li>
+			</ul>
+		</div>
+	</footer>
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-40515046-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+
+
+</body></html>

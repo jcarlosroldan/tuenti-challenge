@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="icon" href="http://54.194.57.151/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="Idols_files/normalize.css">
+	<link rel="stylesheet" href="Idols_files/contest.css">
+	<link rel="stylesheet" href="Idols_files/countdown.css">
+	<link rel="stylesheet" href="Idols_files/css.css">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<script type="text/javascript" async="" src="Idols_files/ga.js"></script><script type="text/javascript" src="Idols_files/widgets.js"></script>
+	<script type="text/javascript" src="Idols_files/jquery-2.js"></script>
+	<script type="text/javascript" src="Idols_files/jquery.js"></script>
+	<script type="text/javascript" src="Idols_files/lodash.js"></script>
+	<script type="text/javascript" src="Idols_files/countdown.js"></script>
+
+	<title>Tuenti Challenge 7</title>
+</head>
+
+<body>
+	<header>
+		<div class="grid">
+			<h1 class="logo h-left"><a href="http://54.194.57.151/">Tuenti Challenge 7</a></h1>
+			<nav class="h-right">
+				<ul>
+					<li class="none"><a href="http://54.194.57.151/">Home</a></li>
+					<li class="none"><a href="http://54.194.57.151/Info/about">Info</a></li>
+					<li class="active"><a href="http://54.194.57.151/Challenges">Challenges</a></li>
+					<li class="none"><a href="http://54.194.57.151/Info/past">Past editions</a></li>
+										<li class="none"><a href="http://54.194.57.151/Stats">Ranking</a></li>
+														</ul>
+			</nav>
+		</div>
+	</header>
+<div class="content">
+<div class="grid">
+<div class="problem">
+
+<div class="problem-section">
+	<h2><strong>Challenge 2</strong> - Idols</h2>
+	<nav class="h-right" style="padding-top: 0;">
+					<a href="http://54.194.57.151/Challenges?id=1"><span>« Prev</span></a>
+						<a href="http://54.194.57.151/Challenges?id=3"><span>Next »</span></a>
+				</nav>
+	
+	<style>
+    sup {
+        vertical-align: super;
+        font-size: smaller;
+    }
+</style>
+
+<p>As a God, you are growing bored of your world. It was fun at first, 
+when those pesky humans fought all the time over trivial matters, but 
+after they settled down everything became a bit too calm. They still 
+adore you, of course, but it just isn't the same.</p>
+
+<p>In your boredom you started to try new things: being kind, being 
+cruel, being just. You tried new names, new ways. Now, different 
+villages ended up worshiping different idols, even though you are still 
+One and Only.</p>
+
+<p>After a particularly boring day, you finally have an idea, astonished
+ of not having thought about it sooner: you'll go back to the old days, 
+full of battles and entertainment.</p>
+
+<p>To do this you'll use your influence over the villages to make them 
+wage war on each other. Your objective is to watch as many people fight 
+each other as possible. Your power is not infinite though: you can't 
+change the faith of people on a whim. The humans made their own stories 
+about the idols, and so they have some deep alliances and grudges 
+between them already set in stone. Particularly, only villages whose 
+idols have a grudge against each other may go to battle. These grudges 
+are always reciprocal: if idol 0 has a grudge against idol 1, then idol 1
+ has a grudge against idol 0 too.</p>
+
+<p>What you can do, though, is decide the order in which the battles will take place and outcomes of all these battles.</p>
+
+<p>When a village goes to war every single person of the village fights 
+and if a village is defeated it's not possible for them to fight 
+anymore. Note that the winners can go to battle again and watching them 
+fight again is still entertaining to you. Only two villages can 
+participate in a battle and a village can only be in a single battle at 
+once (there can be more than one battle among other villages at the same
+ time). </p>
+
+<h3>Input</h3>
+<p>The first line will contain an integer <b>C</b>, the number of cases for our problem.<br>
+Each case starts with a line with two integers <b>I</b> and <b>G</b>, the number of idols and the existing grudges. <b>G</b> lines follow, each with two integers <b>A</b> and <b>B</b>, indicating a grudge between idols <b>I</b><sub>A</sub> and <b>I</b><sub>B</sub>.<br>
+Next, a line with a integer <b>V</b> follows, indicating the number of villages. <b>V</b> lines follow, each with two integers <b>Q</b> and <b>P</b>, indicating that village <b>V</b><sub>i</sub> worships idol <b>I</b><sub>Q</sub> and has a population of <b>P</b>.</p>
+
+<h3>Output</h3>
+<p>For each case, a line starting with "Case #x: " followed by the 
+maximum amount of people that you can watch fighting. Every line is 
+followed by a new line character.</p>
+
+<h3>Examples</h3>
+
+<table style="width:100%"><tbody><tr>
+<td><pre>Case 1:
+
+1 0
+2
+2 10
+2 15
+
+
+
+
+
+
+
+</pre></td><td><pre>Case 2:
+
+2 0
+2
+0 10
+1 15
+
+
+
+
+
+
+
+</pre></td>
+<td><pre>Case 3:
+
+2 1
+0 1
+2
+0 10
+1 15
+
+
+
+
+
+
+</pre></td>
+<td><pre>Case 4:
+
+4 4
+0 1
+1 2
+1 3
+2 3
+5
+0 5
+1 10
+1 20
+2 10
+3 15
+</pre></td>
+</tr></tbody></table>
+
+<p>In the Case 1 there is only a village, so there isn't any possible battle.<br>
+In the Case 2 there are two villages with different idols, but as there 
+is no grudge between them there isn't any possible battle.<br>
+In the Case 3 you can make villages 0 and 1 fight, and you will watch 10 + 15 people fight.<br>
+In the Case 4 you can make village 2 win against village 0, and village 4
+ win against village 1, watching 5 + 20 + 10 + 15 people fight. After 
+that, village 0 and 1 cannot go to battle anymore, so you can make 
+village 4 win against village 3. Finally, you can make the last two 
+villages standing (2 and 4) fight each other. The total amount of people
+ that you watch fighting is 115.</p>
+
+<h3>Limits for the test phase</h3>
+
+<ul>
+<li>1 ≤ <b>I</b>, <b>V</b> ≤ 10</li>
+</ul>
+
+<h3>Limits for the submit phase</h3>
+
+<ul>
+<li>1 ≤ <b>I</b>, <b>V</b> ≤ 1000</li>
+</ul>
+
+<h3>Sample Input</h3>
+
+<pre>4
+1 0
+2
+2 10
+2 15
+2 0
+2
+0 10
+1 15
+2 1
+0 1
+2
+0 10
+1 15
+4 4
+0 1
+1 2
+1 3
+2 3
+5
+0 5
+1 10
+1 20
+2 10
+3 15
+</pre>
+
+<h3>Sample Output</h3>
+
+<pre>Case #1: 0
+Case #2: 0
+Case #3: 25
+Case #4: 115
+</pre>
+
+
+</div>
+
+<div class="problem-section">
+	<h2>Test your code</h2>
+	<p>You can test your program against both the input provided in
+	the test phase and the input provided in the submit phase. A nice
+	output will tell you if your program got the right solution or
+	not. You can try as many times as you want to. Be careful with
+	extra whitespaces, the output should be exactly as described.</p>
+
+	<h3>Test your program against the input provided in the test phase</h3>
+	<div class="group">
+		<div id="form-test-error" class="error hide"></div>
+		<div id="form-test-output" class="hide"><div class="submit-feedback"></div></div>
+		<form id="form-test" name="form-test" action="/Solver/test" method="post" enctype="multipart/form-data">
+			<input name="token" value="CHALLENGE_2" type="hidden">
+			<p><a href="http://54.194.57.151/Solver/testInput?token=CHALLENGE_2" class="icon-download">Download test input</a></p>
+			<p>Program output:</p>
+			<p><input name="output" id="output" type="file"></p>
+			<p><button>Submit test output</button></p>
+		</form>
+	</div>
+
+	<h3>Test your program against the input provided in the submit phase</h3>
+	<div class="group">
+		<a href="http://54.194.57.151/Solver/testInput?token=CHALLENGE_SUBMIT_2" class="icon-download">Download input</a>
+		<div id="form-submit-error" class="error hide"></div>
+		<div id="form-submit-output" class="hide"><div class="submit-feedback"></div></div>
+		<form id="form-submit" name="form-submit" action="/Solver/test" method="post" enctype="multipart/form-data">
+			<input name="token" value="CHALLENGE_SUBMIT_2" type="hidden">
+			<p>Program output:</p>
+			<p><input name="output" id="output" type="file"></p>
+			<p><button>Submit output</button></p>
+		</form>
+	</div>
+	<script>
+	$(function () {
+		var formatOutput = function (text) {
+			return text.trim().split('\n').map(function (line) {
+				var klass = '';
+				if (line.match(/^Line\s+\d+\s+\[WRONG\]/)) {
+					klass = ' class="feedback-line-error"';
+				} else if (line.match(/^Line\s+\d+\s+\[OK!\]/)) {
+					klass = ' class="feedback-line-ok"';
+				}
+				return '<div' + klass + '>' + $('<div />').text(line).html() + '</div>';
+			}).concat('\n');
+		};
+		['test', 'submit'].forEach(function(type) {
+			$('#form-' + type).on('submit', function(e) {
+				e.preventDefault();
+				var formData = new FormData($('#form-' + type)[0]);
+				var error = function(content) {
+					var $error = $('#form-' + type + '-error');
+					$error.html(content);
+					$error.removeClass('hide');
+				};
+				$.ajax("/Solver/test", {
+					type: 'post',
+					data: formData,
+					processData: false,
+					contentType: false,
+					dataType: 'json'
+				}).done(function(data) {
+					$('#form-' + type + '-error').addClass('hide');
+					if (data.error) {
+						if (!data.content && !data.output) {
+							location.reload();
+						}
+						if (data.content) {
+							error(data.content);
+						}
+						if (data.output) {
+							$('#form-' + type + '-output .submit-feedback').html(formatOutput(data.output));
+							$output = $('#form-' + type + '-output');
+							$output.removeClass('hide');
+							$output.removeClass('success');
+							$output.addClass('error');
+						} else {
+							$('#form-' + type + '-output').addClass('hide');
+						}
+					} else {
+						if (data.output) {
+							$('#form-' + type + '-output .submit-feedback').html(formatOutput(data.output));
+							$output = $('#form-' + type + '-output');
+							$output.removeClass('hide');
+							$output.removeClass('error');
+							$output.addClass('success');
+						} else {
+							$('#form-' + type + '-output').addClass('hide');
+						}
+					}
+				}).fail(function() {
+					error("Error uploading test output. Please try again");
+				});
+				return false;
+			});
+		});
+	});
+	</script>
+	<p>During the submit phase, in some problems, we might give your program harder inputs. As with the test token,
+	a nice output will tell you if your program got the right solution or not. You can try as
+	many times as you need.</p>
+
+	<p>In the actual contest you first need to solve the test phase before 
+submitting the code, you must provide
+	the source code used to solve the challenge and you can only submit 
+once (once your solution is submitted you won't be able to amend it to 
+fix issues
+	or make it faster). </p>
+
+	<p>If you have any doubts, please check the <a href="http://54.194.57.151/Info/about">info section</a>.</p>
+	<nav class="h-right" style="padding-top: 0;">
+					<a href="http://54.194.57.151/Challenges?id=1"><span>« Prev</span></a>
+						<a href="http://54.194.57.151/Challenges?id=3"><span>Next »</span></a>
+				</nav>
+</div>
+
+</div>
+</div>
+</div>
+	<footer>
+		<div class="grid">
+			<p class="h-left">
+				Tweet about this! <a href="http://twitter.com/intent/tweet?text=%23TuentiChallenge7" target="_blank">#TuentiChallenge7</a>
+			</p>
+			<ul class="h-right scl-menu">
+				<li>
+					<a href="https://twitter.com/Tuentieng" class="twitter-follow-button" data-show-count="false" data-lang="es" data-show-screen-name="false" data-dnt="true" target="_blank">Follow @TuentiEng</a>
+				</li>
+			</ul>
+		</div>
+	</footer>
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-40515046-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+
+
+</body></html>

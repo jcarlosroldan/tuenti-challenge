@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="icon" href="http://54.194.57.151/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="Syllables_files/normalize.css">
+	<link rel="stylesheet" href="Syllables_files/contest.css">
+	<link rel="stylesheet" href="Syllables_files/countdown.css">
+	<link rel="stylesheet" href="Syllables_files/css.css">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<script type="text/javascript" async="" src="Syllables_files/ga.js"></script><script type="text/javascript" src="Syllables_files/widgets.js"></script>
+	<script type="text/javascript" src="Syllables_files/jquery-2.js"></script>
+	<script type="text/javascript" src="Syllables_files/jquery.js"></script>
+	<script type="text/javascript" src="Syllables_files/lodash.js"></script>
+	<script type="text/javascript" src="Syllables_files/countdown.js"></script>
+
+	<title>Tuenti Challenge 7</title>
+</head>
+
+<body>
+	<header>
+		<div class="grid">
+			<h1 class="logo h-left"><a href="http://54.194.57.151/">Tuenti Challenge 7</a></h1>
+			<nav class="h-right">
+				<ul>
+					<li class="none"><a href="http://54.194.57.151/">Home</a></li>
+					<li class="none"><a href="http://54.194.57.151/Info/about">Info</a></li>
+					<li class="active"><a href="http://54.194.57.151/Challenges">Challenges</a></li>
+					<li class="none"><a href="http://54.194.57.151/Info/past">Past editions</a></li>
+										<li class="none"><a href="http://54.194.57.151/Stats">Ranking</a></li>
+														</ul>
+			</nav>
+		</div>
+	</header>
+<div class="content">
+<div class="grid">
+<div class="problem">
+
+<div class="problem-section">
+	<h2><strong>Challenge 1</strong> - Syllabes</h2>
+	<nav class="h-right" style="padding-top: 0;">
+					<a href="http://54.194.57.151/Challenges?id=2"><span>Next »</span></a>
+				</nav>
+	
+	<style>
+    sup {
+        vertical-align: super;
+        font-size: smaller;
+    }
+</style>
+
+<p>As an elementary school teacher, you are explaining some basic 
+concepts to your class. They are just starting, so you decided to 
+simplify things a bit:
+</p><ul>
+<li>We define a syllabe as a string of characters of any length, of 
+which only the first or the last one (and never both at the same time) 
+can be a consonant and at least one has to be a vowel.</li>
+<li>A consonant is any letter different than the following: <i>a e i o u y</i></li>
+<li>A word is the concatenation of one or more syllabes.</li>
+</ul>
+
+<p>After this, you gave them an assignment to practise: writing a list 
+of words. As expected though, they aren't doing so well - it's their 
+first time after all and most of the words are not valid!</p>
+
+<p>You need to point out their mistakes, but kids are very sensitive 
+these days, so you should try to minimize the amount of corrections that
+ you apply to each word.</p><p>
+
+</p><p>For example, you can correct the string <i>wrong</i> with two corrections: changing the letters <i>r</i> and <i>n</i>
+ to vowels. Notice that a correction consists in changing a single 
+letter for a different one and never in adding or substracting letters.
+
+</p><h3>Input</h3>
+<p>The first line will contain an integer <b>C</b>, the number of cases for our problem.<br>
+Each case consists of a line with a single string, formed by lowercase english letters.</p>
+
+<h3>Output</h3>
+<p>For each case, a line starting with "Case #x: " followed by the 
+minimum number of corrections. Every line is followed by a new line 
+character.</p>
+
+<h3>Examples</h3>
+
+<table style="width:100%"><tbody><tr>
+<td><pre>Case 1:
+
+yea
+</pre></td><td><pre>Case 2:
+
+isalsook
+</pre></td>
+<td><pre>Case 3:
+
+bcdf
+</pre></td>
+<td><pre>Case 4:
+
+bcdfg
+</pre></td>
+<td><pre>Case 5:
+
+abcdefghijklypq
+</pre></td>
+</tr></tbody></table>
+
+<p>In the Case 1 the string is already a valid word.<br>
+In the Case 2 the string is already a valid word.<br>
+In the Case 3 all the letters are consonants, we need to change two of them.<br>
+In the Case 4 we need to change three of the letters, similar to Case 3.<br>
+In the Case 5 the minimum amount of corrections is 4.<br>
+</p>
+
+<h3>Limits for the test phase</h3>
+
+<ul>
+<li>1 ≤ Word length ≤ 50</li>
+</ul>
+
+<h3>Limits for the submit phase</h3>
+
+<ul>
+<li>1 ≤ Word length ≤ 10000</li>
+</ul>
+
+<h3>Sample Input</h3>
+
+<pre>5
+yea
+isalsook
+bcdf
+bcdfg
+abcdefghijklypq
+</pre>
+
+<h3>Sample Output</h3>
+
+<pre>Case #1: 0
+Case #2: 0
+Case #3: 2
+Case #4: 3
+Case #5: 4
+</pre>
+
+
+</div>
+
+<div class="problem-section">
+	<h2>Test your code</h2>
+	<p>You can test your program against both the input provided in
+	the test phase and the input provided in the submit phase. A nice
+	output will tell you if your program got the right solution or
+	not. You can try as many times as you want to. Be careful with
+	extra whitespaces, the output should be exactly as described.</p>
+
+	<h3>Test your program against the input provided in the test phase</h3>
+	<div class="group">
+		<div id="form-test-error" class="error hide"></div>
+		<div id="form-test-output" class="hide"><div class="submit-feedback"></div></div>
+		<form id="form-test" name="form-test" action="/Solver/test" method="post" enctype="multipart/form-data">
+			<input name="token" value="CHALLENGE_1" type="hidden">
+			<p><a href="http://54.194.57.151/Solver/testInput?token=CHALLENGE_1" class="icon-download">Download test input</a></p>
+			<p>Program output:</p>
+			<p><input name="output" id="output" type="file"></p>
+			<p><button>Submit test output</button></p>
+		</form>
+	</div>
+
+	<h3>Test your program against the input provided in the submit phase</h3>
+	<div class="group">
+		<a href="http://54.194.57.151/Solver/testInput?token=CHALLENGE_SUBMIT_1" class="icon-download">Download input</a>
+		<div id="form-submit-error" class="error hide"></div>
+		<div id="form-submit-output" class="hide"><div class="submit-feedback"></div></div>
+		<form id="form-submit" name="form-submit" action="/Solver/test" method="post" enctype="multipart/form-data">
+			<input name="token" value="CHALLENGE_SUBMIT_1" type="hidden">
+			<p>Program output:</p>
+			<p><input name="output" id="output" type="file"></p>
+			<p><button>Submit output</button></p>
+		</form>
+	</div>
+	<script>
+	$(function () {
+		var formatOutput = function (text) {
+			return text.trim().split('\n').map(function (line) {
+				var klass = '';
+				if (line.match(/^Line\s+\d+\s+\[WRONG\]/)) {
+					klass = ' class="feedback-line-error"';
+				} else if (line.match(/^Line\s+\d+\s+\[OK!\]/)) {
+					klass = ' class="feedback-line-ok"';
+				}
+				return '<div' + klass + '>' + $('<div />').text(line).html() + '</div>';
+			}).concat('\n');
+		};
+		['test', 'submit'].forEach(function(type) {
+			$('#form-' + type).on('submit', function(e) {
+				e.preventDefault();
+				var formData = new FormData($('#form-' + type)[0]);
+				var error = function(content) {
+					var $error = $('#form-' + type + '-error');
+					$error.html(content);
+					$error.removeClass('hide');
+				};
+				$.ajax("/Solver/test", {
+					type: 'post',
+					data: formData,
+					processData: false,
+					contentType: false,
+					dataType: 'json'
+				}).done(function(data) {
+					$('#form-' + type + '-error').addClass('hide');
+					if (data.error) {
+						if (!data.content && !data.output) {
+							location.reload();
+						}
+						if (data.content) {
+							error(data.content);
+						}
+						if (data.output) {
+							$('#form-' + type + '-output .submit-feedback').html(formatOutput(data.output));
+							$output = $('#form-' + type + '-output');
+							$output.removeClass('hide');
+							$output.removeClass('success');
+							$output.addClass('error');
+						} else {
+							$('#form-' + type + '-output').addClass('hide');
+						}
+					} else {
+						if (data.output) {
+							$('#form-' + type + '-output .submit-feedback').html(formatOutput(data.output));
+							$output = $('#form-' + type + '-output');
+							$output.removeClass('hide');
+							$output.removeClass('error');
+							$output.addClass('success');
+						} else {
+							$('#form-' + type + '-output').addClass('hide');
+						}
+					}
+				}).fail(function() {
+					error("Error uploading test output. Please try again");
+				});
+				return false;
+			});
+		});
+	});
+	</script>
+	<p>During the submit phase, in some problems, we might give your program harder inputs. As with the test token,
+	a nice output will tell you if your program got the right solution or not. You can try as
+	many times as you need.</p>
+
+	<p>In the actual contest you first need to solve the test phase before 
+submitting the code, you must provide
+	the source code used to solve the challenge and you can only submit 
+once (once your solution is submitted you won't be able to amend it to 
+fix issues
+	or make it faster). </p>
+
+	<p>If you have any doubts, please check the <a href="http://54.194.57.151/Info/about">info section</a>.</p>
+	<nav class="h-right" style="padding-top: 0;">
+					<a href="http://54.194.57.151/Challenges?id=2"><span>Next »</span></a>
+				</nav>
+</div>
+
+</div>
+</div>
+</div>
+	<footer>
+		<div class="grid">
+			<p class="h-left">
+				Tweet about this! <a href="http://twitter.com/intent/tweet?text=%23TuentiChallenge7" target="_blank">#TuentiChallenge7</a>
+			</p>
+			<ul class="h-right scl-menu">
+				<li>
+					<a href="https://twitter.com/Tuentieng" class="twitter-follow-button" data-show-count="false" data-lang="es" data-show-screen-name="false" data-dnt="true" target="_blank">Follow @TuentiEng</a>
+				</li>
+			</ul>
+		</div>
+	</footer>
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-40515046-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+
+
+</body></html>

@@ -1,0 +1,5 @@
+armadillo0000 0: 1dd6eba6
+armadillo0000 1: ea93fadf
+armadillo0000 2: 6d2e0095
+armadillo0000 3: 4d8f75e5
+armadillo0000 4: 0a3ab992
