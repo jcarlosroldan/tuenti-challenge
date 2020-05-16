@@ -1,4 +1,4 @@
-FNAME = 'submit'
+FNAME = 'test'
 DVORAK = '[]\',.pyfgcrl/=oeuidhtns-;qjkxbwvz{}"<>PYFGCRL?+OEUIDHTNS_:QJKXBWVZ'
 QWERTY = '-=qwertyuiop[]sdfghjkl;\'zxcvbn,./_+QWERTYUIOP{}SDFGHJKL:"ZXCVBN<>?'
 DECODER = str.maketrans(DVORAK, QWERTY)

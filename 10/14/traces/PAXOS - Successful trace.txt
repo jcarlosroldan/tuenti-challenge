@@ -1,0 +1,923 @@
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+SERVER ID: 9
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMWWNNNNWWMMMMMMMMMMMMMMMMMMMWNNNNWWMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWNKOxdolcllx0NMMMMMMMMMMMMMMMWXkolcclodk0XWMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWXOdl:;;;;;;:;::dXMMMMMMMMMMMMMW0l;;;;;;;;;;:lx0XWMMMMMWMMMMMMMMM
+MMMMMMMMMMMMWXOo:,,;;;;;;;;;::::kWMMMMMMMMMMMMXo;:;;;;;;,;;,,,,cd0NWWMMMMMMMMMMM
+MMMMMMMMMWWXxc,,,,,;;;;;;;;;;;::kWMMMMMMMMMMMMXo;;;;;;;;;;,,,,,,,;lONWWMMMMMMMMM
+MMMMMMMMWNOc,,,,,,,,;;;;;;;;;;:dXMMMMMMMMMMMMMW0l;;;;;;;,;,,,,,,,,';oKWMMMMMMMMM
+MMMMMMMMNk;',,,,,,,;;;;;;;::coONMMMMMMMMMMMMMMMWKxlc;;;;;;,,,,,,,''''cKWMMMMMMMM
+MMMMMMMWO;',,',,,,,;;;;;;:x0XWMMMMMMMMMMMMMMMMMMMWNKOl;;;;,,,,,,,'''''lXMMMMMMMM
+MMMMMMMKc''',,,,,,,;;;;;;:xXNWMMMMMMMMMMMMMMMMMMMMWNKo;;;;,,,,,,,''''''dWMMMMMMM
+MMMMMMWk,'''',,,,,,;;;;;;;:cokXWMMMMMMMMMMMMMMMMW0xlc;;;;;,,,,,,,'''''.cKMMMMMMM
+MMMMMMNo''''',,,,,,;;;;;;;;::;oXMMMMMMMMMMMMMMMWOc;;;;;;;;,,,,,,''''''.,kWMMMMMM
+MMMMMMXc.'''',,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,''''''''xWMMMMMM
+MMMMMMK:'''',',,,,,;;;;;;;;;;;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,'''''''oNMMMMMM
+MMMMMM0:'''',',,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,''''''.oNMMMMMM
+MMMMMM0:'''',,,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,,'''''.oNMMMMMM
+MMMMMMK:'''',,,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,''''''.oWMMMMMM
+MMMMMMXl'''',,,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,'''''.,xWMMMMMM
+MMMMMMWx,''',,,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,'''''.:0MMMMMMM
+MMMMMMMKc''',,,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,''''''dWMMMMMMM
+MMMMMMMWO;'',,,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,,'''''lXMMMMMMMM
+MMMMMMMMNk:'',,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,,','''lKWMMMMMMMM
+MMMMMMMMMW0c,,,,,,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;;,,,,,,,',oXMMMMMMMMMM
+MMMMMMMMMMWXx:,,,,,;;;;;;;;;;;c0MMMMMMMMMMMMMMMWx:;;;;;;;;,,,,,,',cONMMMMMMMMMMM
+MMMMMMMMMMMMWKxc;,,;;;;;;;;;:;c0MMMMMMMMMMMMMMMWx;;;;;;;;;,,,,,;lONWMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXOdc;;,;;;;;;;;lKMMMMMMMMMMMMMMMWk:;;;;;;;,,;:lx0NWMMMWMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMNKkdoc:;;:co0WMMMMMMMMMMMMMMMMXkl:;;;:loxOKWMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWWNK000XNWMMMMMMMMMMMMMMMMMMWNK00KXNWWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMWK0000000XWMWKKNMMN0000000KXNMMNKKWMMMX0XMMWX0NMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMNOxkOOOO0XWMW0kNMMN0OOOOOkkOXMMNOkKXKXOkKMMW0kNMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMWKO00OOOk0WMW0kNMMN0O0O0OkkOXMMWK00000kkKMMW0kKNNNNNWMMMMMMMMMMMMMM
+MMMMMMMMMMMMMWK000000OKWMWKONMMNK00000O0KNMMNK0000000NMMWXO000000KWMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWWWWWNNWMMWWWWWMMWWWWNWWWMWWMWWWWMWWWWWWMMWWWWWWWWMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMXO0K0KNMXKNWXKNWKO000KWWNXK0KXNWN00000NMX0K0KKKNMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMKO00O0NMXO00OOXWKO00O0NMMWW0KWWMKkOOO0XMKONKKN0KMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMNXXXKXWMNKKXKXWWNXXXKXWMMMWXNMMMNKKKXXNMNXWNNWXNMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+Welcome to the SIBYL SYSTEM, node 9 (be mindful of spoilers if you search it)
+################################################################################
+Since you're new, most of the Paxos protocol operations are automatic.
+You're only able to use the PREPARE and ACCEPT commands:
+PREPARE {<positive_int>,9} -> <dest>
+ACCEPT {id: {<positive_int>,<positive_int>}, value: {servers: <server_list>, secret_owner: <positive_int>}} -> <dest>
+################################################################################
+AUTOJOIN CLUSTER ENABLED
+ROUND 299: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9], secret_owner: 1} (ROUND FINISHED)
+{9, 10, 11, 12, 13, 14, 15}
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 300: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9], secret_owner: 1}
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 300: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9], secret_owner: 1}
+ROUND 300: 8 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9], secret_owner: 1}
+ROUND 300: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9], secret_owner: 1}
+ROUND 300: 6 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9], secret_owner: 1}
+ROUND 300: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9], secret_owner: 1} (ROUND FINISHED)
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1000,9} -> 1
+PREPARE {1000,9} -> 2
+PREPARE {1000,9} -> 3
+PREPARE {1000,9} -> 4
+PREPARE {1000,9} -> 5
+PREPARE {1000,9} -> 6
+PREPARE {1000,9} -> 7
+PREPARE {1000,9} -> 8
+PREPARE {1000,9} -> 9
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 301: PREPARE {1000,9} -> 1
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 301: PREPARE {1000,9} -> 2
+ROUND 301: PREPARE {1000,9} -> 3
+ROUND 301: 1 -> PROMISE {1000,9} no_proposal
+ROUND 301: PREPARE {1000,9} -> 4
+ROUND 301: 2 -> PROMISE {1000,9} no_proposal
+ROUND 301: PREPARE {1000,9} -> 5
+ROUND 301: 3 -> PROMISE {1000,9} no_proposal
+ROUND 301: PREPARE {1000,9} -> 6
+ROUND 301: 4 -> PROMISE {1000,9} no_proposal
+ROUND 301: PREPARE {1000,9} -> 7
+ROUND 301: 5 -> PROMISE {1000,9} no_proposal
+ROUND 301: PREPARE {1000,9} -> 8
+ROUND 301: 6 -> PROMISE {1000,9} no_proposal
+ROUND 301: PREPARE {1000,9} -> 9
+ROUND 301: 7 -> PROMISE {1000,9} no_proposal
+ROUND 301: 8 -> PROMISE {1000,9} no_proposal
+ROUND 301: 9 -> PREPARE {1000,9}
+ROUND 301: PROMISE {1000,9} no_proposal -> 9
+ROUND 301: 9 -> PROMISE {1000,9} no_proposal
+=== INJECTING ALTERATION: ADD MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 1
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 2
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 3
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 4
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 5
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 6
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 7
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 8
+ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 9
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1000,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 301: ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 1
+ROUND 301: ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 2
+ROUND 301: ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 3
+ROUND 301: 1 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}
+ROUND 301: ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 4
+ROUND 301: 2 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}
+ROUND 301: ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 5
+ROUND 301: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}
+ROUND 301: ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 6
+ROUND 301: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}
+ROUND 301: ACCEPT {id: {1000,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}} -> 7
+ROUND 301: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1}
+ROUND 301: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9,10], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1001,9} -> 1
+PREPARE {1001,9} -> 2
+PREPARE {1001,9} -> 3
+PREPARE {1001,9} -> 4
+PREPARE {1001,9} -> 5
+PREPARE {1001,9} -> 6
+PREPARE {1001,9} -> 7
+PREPARE {1001,9} -> 8
+PREPARE {1001,9} -> 9
+PREPARE {1001,9} -> 10
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 302: PREPARE {1001,9} -> 1
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 302: PREPARE {1001,9} -> 2
+ROUND 302: PREPARE {1001,9} -> 3
+ROUND 302: 1 -> PROMISE {1001,9} no_proposal
+ROUND 302: PREPARE {1001,9} -> 4
+ROUND 302: 2 -> PROMISE {1001,9} no_proposal
+ROUND 302: 3 -> PROMISE {1001,9} no_proposal
+ROUND 302: PREPARE {1001,9} -> 5
+ROUND 302: 4 -> PROMISE {1001,9} no_proposal
+ROUND 302: PREPARE {1001,9} -> 6
+ROUND 302: 5 -> PROMISE {1001,9} no_proposal
+ROUND 302: PREPARE {1001,9} -> 7
+ROUND 302: 6 -> PROMISE {1001,9} no_proposal
+ROUND 302: PREPARE {1001,9} -> 8
+ROUND 302: 7 -> PROMISE {1001,9} no_proposal
+ROUND 302: PREPARE {1001,9} -> 9
+ROUND 302: 8 -> PROMISE {1001,9} no_proposal
+ROUND 302: PREPARE {1001,9} -> 10
+ROUND 302: 9 -> PREPARE {1001,9}
+ROUND 302: PROMISE {1001,9} no_proposal -> 9
+ROUND 302: 9 -> PROMISE {1001,9} no_proposal
+ROUND 302: 10 -> PROMISE {1001,9} no_proposal
+=== INJECTING ALTERATION: ADD MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 1
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 2
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 3
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 4
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 5
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 6
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 7
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 8
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 9
+ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 10
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1001,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 1
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 2
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 3
+ROUND 302: 1 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 4
+ROUND 302: 2 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}
+ROUND 302: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 5
+ROUND 302: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 6
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 7
+ROUND 302: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}
+ROUND 302: ACCEPT {id: {1001,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}} -> 8
+ROUND 302: 6 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1}
+ROUND 302: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9,10,11], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1002,9} -> 1
+PREPARE {1002,9} -> 2
+PREPARE {1002,9} -> 3
+PREPARE {1002,9} -> 4
+PREPARE {1002,9} -> 5
+PREPARE {1002,9} -> 6
+PREPARE {1002,9} -> 7
+PREPARE {1002,9} -> 8
+PREPARE {1002,9} -> 9
+PREPARE {1002,9} -> 10
+PREPARE {1002,9} -> 11
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 303: PREPARE {1002,9} -> 1
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 303: PREPARE {1002,9} -> 2
+ROUND 303: PREPARE {1002,9} -> 3
+ROUND 303: 1 -> PROMISE {1002,9} no_proposal
+ROUND 303: PREPARE {1002,9} -> 4
+ROUND 303: 2 -> PROMISE {1002,9} no_proposal
+ROUND 303: 3 -> PROMISE {1002,9} no_proposal
+ROUND 303: PREPARE {1002,9} -> 5
+ROUND 303: 4 -> PROMISE {1002,9} no_proposal
+ROUND 303: PREPARE {1002,9} -> 6
+ROUND 303: 5 -> PROMISE {1002,9} no_proposal
+ROUND 303: PREPARE {1002,9} -> 7
+ROUND 303: 6 -> PROMISE {1002,9} no_proposal
+ROUND 303: PREPARE {1002,9} -> 8
+ROUND 303: 7 -> PROMISE {1002,9} no_proposal
+ROUND 303: PREPARE {1002,9} -> 9
+ROUND 303: 8 -> PROMISE {1002,9} no_proposal
+ROUND 303: PREPARE {1002,9} -> 10
+ROUND 303: 9 -> PREPARE {1002,9}
+ROUND 303: PROMISE {1002,9} no_proposal -> 9
+ROUND 303: PREPARE {1002,9} -> 11
+ROUND 303: 9 -> PROMISE {1002,9} no_proposal
+ROUND 303: 10 -> PROMISE {1002,9} no_proposal
+ROUND 303: 11 -> PROMISE {1002,9} no_proposal
+=== INJECTING ALTERATION: ADD MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 1
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 2
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 3
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 4
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 5
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 6
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 7
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 8
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 9
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 10
+ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 11
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1002,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 1
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 2
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 3
+ROUND 303: 1 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 4
+ROUND 303: 2 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 303: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 5
+ROUND 303: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 6
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 7
+ROUND 303: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 8
+ROUND 303: 6 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 303: ACCEPT {id: {1002,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}} -> 9
+ROUND 303: 9 -> LEARN {servers: [1,2,3,4,
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+5,6,7,8,9,10,11,12], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 304: 1 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 304: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 304: 2 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 304: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 304: 7 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 304: 6 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 304: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1}
+ROUND 304: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9,10,11,12], secret_owner: 1} (ROUND FINISHED)
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1003,9} -> 1
+PREPARE {1003,9} -> 2
+PREPARE {1003,9} -> 3
+PREPARE {1003,9} -> 4
+PREPARE {1003,9} -> 5
+PREPARE {1003,9} -> 6
+PREPARE {1003,9} -> 7
+PREPARE {1003,9} -> 8
+PREPARE {1003,9} -> 9
+PREPARE {1003,9} -> 10
+PREPARE {1003,9} -> 11
+PREPARE {1003,9} -> 12
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 305: PREPARE {1003,9} -> 1
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 305: PREPARE {1003,9} -> 2
+ROUND 305: PREPARE {1003,9} -> 3
+ROUND 305: 1 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 4
+ROUND 305: 2 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 5
+ROUND 305: 3 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 6
+ROUND 305: 4 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 7
+ROUND 305: 5 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 8
+ROUND 305: 6 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 9
+ROUND 305: 7 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 10
+ROUND 305: 8 -> PROMISE {1003,9} no_proposal
+ROUND 305: 9 -> PREPARE {1003,9}
+ROUND 305: PROMISE {1003,9} no_proposal -> 9
+ROUND 305: PREPARE {1003,9} -> 11
+ROUND 305: 9 -> PROMISE {1003,9} no_proposal
+ROUND 305: PREPARE {1003,9} -> 12
+ROUND 305: 10 -> PROMISE {1003,9} no_proposal
+ROUND 305: 11 -> PROMISE {1003,9} no_proposal
+ROUND 305: 12 -> PROMISE {1003,9} no_proposal
+=== INJECTING ALTERATION: ADD MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 1
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 2
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 3
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 4
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 5
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 6
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 7
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 8
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 9
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 10
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 11
+ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 12
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1003,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 1
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 2
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 3
+ROUND 305: 1 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 4
+ROUND 305: 2 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}
+ROUND 305: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 5
+ROUND 305: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 6
+ROUND 305: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 7
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 8
+ROUND 305: 6 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 9
+ROUND 305: 7 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}
+ROUND 305: ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}} -> 10
+ROUND 305: 9 -> ACCEPT {id: {1003,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1}}
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 1
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 3
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 2
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 8
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 4
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 7
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 6
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 5
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 9
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 10
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 11
+ROUND 305: ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} -> 12
+ROUND 305: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough prom
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1004,9} -> 1
+PREPARE {1004,9} -> 2
+PREPARE {1004,9} -> 3
+PREPARE {1004,9} -> 4
+PREPARE {1004,9} -> 5
+PREPARE {1004,9} -> 6
+PREPARE {1004,9} -> 7
+PREPARE {1004,9} -> 8
+PREPARE {1004,9} -> 9
+PREPARE {1004,9} -> 10
+PREPARE {1004,9} -> 11
+PREPARE {1004,9} -> 12
+PREPARE {1004,9} -> 13
+--- RECEIVED ----------------------------------------------------------------------
+ises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13], secret_owner: 1} no_proposal -> 9"
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 306: PREPARE {1004,9} -> 1
+ROUND 306: PREPARE {1004,9} -> 2
+ROUND 306: PREPARE {1004,9} -> 3
+ROUND 306: 1 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 4
+ROUND 306: 2 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 5
+ROUND 306: 3 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 6
+ROUND 306: 4 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 7
+ROUND 306: 5 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 8
+ROUND 306: 6 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 9
+ROUND 306: 7 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 10
+ROUND 306: 8 -> PROMISE {1004,9} no_proposal
+ROUND 306: 9 -> PREPARE {1004,9}
+ROUND 306: PROMISE {1004,9} no_proposal -> 9
+ROUND 306: PREPARE {1004,9} -> 11
+ROUND 306: 9 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 12
+ROUND 306: 10 -> PROMISE {1004,9} no_proposal
+ROUND 306: PREPARE {1004,9} -> 13
+ROUND 306: 11 -> PROMISE {1004,9} no_proposal
+ROUND 306: 12 -> PROMISE {1004,9} no_proposal
+ROUND 306: 13 -> PROMISE {1004,9} no_proposal
+=== INJECTING ALTERATION: ADD MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 1
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 2
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 3
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 4
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 5
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 6
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 7
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 8
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 9
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 10
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 11
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 12
+ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 13
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1004,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 1
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 2
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 3
+ROUND 306: 1 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 4
+ROUND 306: 2 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}
+ROUND 306: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 5
+ROUND 306: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 6
+ROUND 306: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 7
+ROUND 306: 6 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 8
+ROUND 306: ACCEPT {id: {1004,9}, value: {servers: [1,2,3,4,5
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+,6,7,8,9,10,11,12,13,14], secret_owner: 1}} -> 9
+ROUND 306: 7 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1}
+ROUND 306: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1005,9} -> 1
+PREPARE {1005,9} -> 2
+PREPARE {1005,9} -> 3
+PREPARE {1005,9} -> 4
+PREPARE {1005,9} -> 5
+PREPARE {1005,9} -> 6
+PREPARE {1005,9} -> 7
+PREPARE {1005,9} -> 8
+PREPARE {1005,9} -> 9
+PREPARE {1005,9} -> 10
+PREPARE {1005,9} -> 11
+PREPARE {1005,9} -> 12
+PREPARE {1005,9} -> 13
+PREPARE {1005,9} -> 14
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 307: PREPARE {1005,9} -> 1
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 307: PREPARE {1005,9} -> 2
+ROUND 307: PREPARE {1005,9} -> 3
+ROUND 307: 1 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 4
+ROUND 307: 2 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 5
+ROUND 307: 3 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 6
+ROUND 307: 4 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 7
+ROUND 307: 5 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 8
+ROUND 307: 6 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 9
+ROUND 307: 7 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 10
+ROUND 307: 8 -> PROMISE {1005,9} no_proposal
+ROUND 307: 9 -> PREPARE {1005,9}
+ROUND 307: PROMISE {1005,9} no_proposal -> 9
+ROUND 307: PREPARE {1005,9} -> 11
+ROUND 307: 9 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 12
+ROUND 307: 10 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 13
+ROUND 307: 11 -> PROMISE {1005,9} no_proposal
+ROUND 307: PREPARE {1005,9} -> 14
+ROUND 307: 12 -> PROMISE {1005,9} no_proposal
+ROUND 307: 13 -> PROMISE {1005,9} no_proposal
+ROUND 307: 14 -> PROMISE {1005,9} no_proposal
+=== INJECTING ALTERATION: ADD MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 1
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 2
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 3
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 4
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 5
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 6
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 7
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 8
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 9
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 10
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 11
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 12
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 13
+ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 14
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1005,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 1
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 2
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 3
+ROUND 307: 1 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 4
+ROUND 307: 2 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: 3 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 5
+ROUND 307: 4 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 6
+ROUND 307: 5 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 7
+ROUND 307: 6 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 8
+ROUND 307: 7 -> AC
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+CEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 9
+ROUND 307: 8 -> ACCEPTED {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 307: ACCEPT {id: {1005,9}, value: {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 10
+ROUND 307: 9 -> LEARN {servers: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1006,9} -> 1
+PREPARE {1006,9} -> 2
+PREPARE {1006,9} -> 3
+PREPARE {1006,9} -> 4
+PREPARE {1006,9} -> 5
+PREPARE {1006,9} -> 6
+PREPARE {1006,9} -> 7
+PREPARE {1006,9} -> 8
+PREPARE {1006,9} -> 9
+PREPARE {1006,9} -> 10
+PREPARE {1006,9} -> 11
+PREPARE {1006,9} -> 12
+PREPARE {1006,9} -> 13
+PREPARE {1006,9} -> 14
+PREPARE {1006,9} -> 15
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 308: PREPARE {1006,9} -> 1
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 308: PREPARE {1006,9} -> 2
+ROUND 308: PREPARE {1006,9} -> 3
+ROUND 308: 1 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 4
+ROUND 308: 2 -> PROMISE {1006,9} no_proposal
+ROUND 308: 3 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 5
+ROUND 308: 4 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 6
+ROUND 308: 5 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 7
+ROUND 308: 6 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 8
+ROUND 308: 7 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 9
+ROUND 308: 8 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 10
+ROUND 308: 9 -> PREPARE {1006,9}
+ROUND 308: PROMISE {1006,9} no_proposal -> 9
+ROUND 308: PREPARE {1006,9} -> 11
+ROUND 308: 9 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 12
+ROUND 308: 10 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 13
+ROUND 308: 11 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 14
+ROUND 308: 12 -> PROMISE {1006,9} no_proposal
+ROUND 308: PREPARE {1006,9} -> 15
+ROUND 308: 13 -> PROMISE {1006,9} no_proposal
+ROUND 308: 14 -> PROMISE {1006,9} no_proposal
+ROUND 308: 15 -> PROMISE {1006,9} no_proposal
+=== INJECTING ALTERATION: KICK MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 1
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 2
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 3
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 4
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 5
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 6
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 7
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 8
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 9
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 10
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 11
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 12
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 13
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 14
+ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 15
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1006,9 no_proposal -> 9"
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 1
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 2
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 3
+ROUND 308: 1 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 4
+ROUND 308: 2 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: 3 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 5
+ROUND 308: 4 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 6
+ROUND 308: 5 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 7
+ROUND 308: 6 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 8
+ROUND 308: 7 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 9
+ROUND 308: 8 -> ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 308: ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 10
+ROUND 308: 9 -> ACCEPT {id: {1006,9}, value: {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}}
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 1
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 3
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 2
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 8
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 4
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 7
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 6
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 5
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 9
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 10
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 11
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 12
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 14
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 13
+ROUND 308: ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 15
+ROUND 308: 9 -> LEARN {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1007,9} -> 1
+PREPARE {1007,9} -> 3
+PREPARE {1007,9} -> 4
+PREPARE {1007,9} -> 5
+PREPARE {1007,9} -> 6
+PREPARE {1007,9} -> 7
+PREPARE {1007,9} -> 8
+PREPARE {1007,9} -> 9
+PREPARE {1007,9} -> 10
+PREPARE {1007,9} -> 11
+PREPARE {1007,9} -> 12
+PREPARE {1007,9} -> 13
+PREPARE {1007,9} -> 14
+PREPARE {1007,9} -> 15
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "ACCEPTED {servers: [1,3,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 309: PREPARE {1007,9} -> 1
+ROUND 309: PREPARE {1007,9} -> 3
+ROUND 309: PREPARE {1007,9} -> 4
+ROUND 309: 1 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 5
+ROUND 309: 3 -> PROMISE {1007,9} no_proposal
+ROUND 309: 4 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 6
+ROUND 309: 5 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 7
+ROUND 309: 6 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 8
+ROUND 309: 7 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 9
+ROUND 309: 8 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 10
+ROUND 309: 9 -> PREPARE {1007,9}
+ROUND 309: PROMISE {1007,9} no_proposal -> 9
+ROUND 309: PREPARE {1007,9} -> 11
+ROUND 309: 9 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 12
+ROUND 309: 10 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 13
+ROUND 309: 11 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 14
+ROUND 309: 12 -> PROMISE {1007,9} no_proposal
+ROUND 309: PREPARE {1007,9} -> 15
+ROUND 309: 13 -> PROMISE {1007,9} no_proposal
+ROUND 309: 14 -> PROMISE {1007,9} no_proposal
+ROUND 309: 15 -> PROMISE {1007,9} no_proposal
+=== INJECTING ALTERATION: KICK MEMBER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 1
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 3
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 4
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 5
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 6
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 7
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 8
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 9
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 10
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 11
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 12
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 13
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 14
+ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 15
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1007,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 1
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 3
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 4
+ROUND 309: 1 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 5
+ROUND 309: 3 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 6
+ROUND 309: 4 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: 5 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 7
+ROUND 309: 6 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 8
+ROUND 309: 7 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 9
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 10
+ROUND 309: 8 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: 9 -> ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}}
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 1
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 3
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 8
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 4
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 7
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 6
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 5
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 9
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 10
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 11
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 12
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 14
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 13
+ROUND 309: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} -> 15
+ROUND
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 11
+ROUND 309: 9 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: 10 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}
+ROUND 309: ACCEPT {id: {1007,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1}} -> 12
+ROUND 309: 9 -> LEARN {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} (ROUND FINISHED)
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+BAD COMMAND IGNORED: Not enough promises
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+PREPARE {1008,9} -> 1
+PREPARE {1008,9} -> 4
+PREPARE {1008,9} -> 5
+PREPARE {1008,9} -> 6
+PREPARE {1008,9} -> 7
+PREPARE {1008,9} -> 8
+PREPARE {1008,9} -> 9
+PREPARE {1008,9} -> 10
+PREPARE {1008,9} -> 11
+PREPARE {1008,9} -> 12
+PREPARE {1008,9} -> 13
+PREPARE {1008,9} -> 14
+PREPARE {1008,9} -> 15
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 1} no_proposal -> 9"
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 310: PREPARE {1008,9} -> 1
+ROUND 310: PREPARE {1008,9} -> 4
+ROUND 310: PREPARE {1008,9} -> 5
+ROUND 310: 1 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 6
+ROUND 310: 4 -> PROMISE {1008,9} no_proposal
+ROUND 310: 5 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 7
+ROUND 310: 6 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 8
+ROUND 310: 7 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 9
+ROUND 310: 8 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 10
+ROUND 310: 9 -> PREPARE {1008,9}
+ROUND 310: PROMISE {1008,9} no_proposal -> 9
+ROUND 310: PREPARE {1008,9} -> 11
+ROUND 310: 9 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 12
+ROUND 310: 10 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 13
+ROUND 310: 11 -> PROMISE {1008,9} no_proposal
+ROUND 310: PREPARE {1008,9} -> 14
+ROUND 310: PREPARE {1008,9} -> 15
+ROUND 310: 12 -> PROMISE {1008,9} no_proposal
+ROUND 310: 13 -> PROMISE {1008,9} no_proposal
+ROUND 310: 14 -> PROMISE {1008,9} no_proposal
+ROUND 310: 15 -> PROMISE {1008,9} no_proposal
+=== INJECTING ALTERATION: CHANGE KEY OWNER ===
+===================================================================================
+--- SENT --------------------------------------------------------------------------
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 1
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 4
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 5
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 6
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 7
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 8
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 9
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 10
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 11
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 12
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 13
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 14
+ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 15
+--- RECEIVED ----------------------------------------------------------------------
+UNRECOGNIZED COMMAND "PROMISE 1008,9 no_proposal -> 9"
+===================================================================================
+===================================================================================
+--- RECEIVED ----------------------------------------------------------------------
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 1
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 4
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 5
+ROUND 310: 1 -> ACCEPT_IGNORE {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} (NOT TRUSTWORTHY TO CHANGE SECRET OWNER)
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 6
+ROUND 310: 4 -> ACCEPT_IGNORE {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} (NOT TRUSTWORTHY TO CHANGE SECRET OWNER)
+ROUND 310: 5 -> ACCEPT_IGNORE {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} (NOT TRUSTWORTHY TO CHANGE SECRET OWNER)
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 7
+ROUND 310: 6 -> ACCEPT_IGNORE {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} (NOT TRUSTWORTHY TO CHANGE SECRET OWNER)
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 8
+ROUND 310: 7 -> ACCEPT_IGNORE {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} (NOT TRUSTWORTHY TO CHANGE SECRET OWNER)
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 9
+ROUND 310: 8 -> ACCEPT_IGNORE {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} (NOT TRUSTWORTHY TO CHANGE SECRET OWNER)
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 10
+ROUND 310: 9 -> ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}}
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 1
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 8
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 4
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 7
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 6
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 5
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 9
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 10
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 11
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 12
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 14
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 13
+ROUND 310: ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} -> 15
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 11
+ROUND 310: 10 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}
+ROUND 310: 9 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 12
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 13
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 14
+ROUND 310: 11 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}
+ROUND 310: ACCEPT {id: {1008,9}, value: {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}} -> 15
+ROUND 310: 12 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}
+ROUND 310: 13 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}
+ROUND 310: 14 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}
+ROUND 310: 15 -> ACCEPTED {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9}
+ROUND 310: 9 -> LEARN {servers: [1,4,5,6,7,8,9,10,11,12,13,14,15], secret_owner: 9} (ROUND FINISHED)
+SECRET IS: Books are not something that you just read words in. They're also a tool to adjust your senses.

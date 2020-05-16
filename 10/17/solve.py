@@ -20,6 +20,14 @@ for col in range(3):
 		im.paste(parts[row * 3 + col], box)
 im.save('zatoichi-unscrambled.png')
 
+for bit in range(8):
+	im2 = im.copy()
+	for c in range(im.size[0]):
+		for r in range(im.size[1]):
+			im2.putpixel((c, r), tuple(255 * (channel & 2**bit) for channel in im.getpixel((c, r))))
+	im2.save('bit_%d.png' % bit)
+			
+
 # save LSB data
 data = []
 for c in range(im.size[0]):
