@@ -78,8 +78,10 @@ def changes(pos, depth, last_char, comma_since_newline):
 			alts.append('N')
 		if _text[pos] == 'O' and last_char != ']':
 			alts.append('O')
-		if last_char not in 'ON]' and depth < _text_len - pos - 1: alts.append('[')
-		if depth > 1: alts.append(']')
+		if last_char not in 'ON]' and depth < _text_len - pos - 1:
+			alts.append('[')
+		if depth > 1:
+			alts.append(']')
 	res = min(
 		(alt != _text[pos]) + changes(
 			pos + 1,
